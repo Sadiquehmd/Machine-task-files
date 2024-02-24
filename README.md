@@ -3,7 +3,7 @@ machine-test-task for php developer
 I have uploaded the whole project in zip format . Kindly extract the zip in one folder.
 Steps for installation.
 1. Create a database,name it 'student_data' in your local server.
-2. Inside the project there is a folder name 'database' which contains database file in sql format which you need to import to the newly created database i.e. 'student_data'.
+2. Inside the project there is a folder name 'database' which contains database file in sql format i.e. "student_data.sql" which you need to import to the newly created database i.e. 'student_data'.
 3. Import 'student_data.sql' into the database 'student_data'.
 4. Now run the project on th local server.
 #Working of the project
